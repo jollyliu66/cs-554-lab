@@ -1,0 +1,28 @@
+{
+  "name": "liu_chunli_cs554_lab2",
+  "version": "1.0.0",
+  "description": "this is what I learn about bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "chunli liu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sync": "^0.1.4",
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "@types/gulp": "^4.0.5",
+    "@types/gulp-imagemin": "^4.1.1",
+    "bootstrap": "^4.2.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
