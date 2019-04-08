@@ -1,0 +1,19 @@
+{
+  "name": "liu_chunli_CS554_lab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "chunli liu",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-redis": "^0.1.7",
+    "redis": "^2.8.0"
+  }
+}
